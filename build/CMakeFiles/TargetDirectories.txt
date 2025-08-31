@@ -1,0 +1,3 @@
+/home/cool/Templates/cli-porjects/dotfetch/build/CMakeFiles/dotfetch.dir
+/home/cool/Templates/cli-porjects/dotfetch/build/CMakeFiles/edit_cache.dir
+/home/cool/Templates/cli-porjects/dotfetch/build/CMakeFiles/rebuild_cache.dir
