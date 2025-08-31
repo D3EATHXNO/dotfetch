@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/cool/Templates/cli-porjects/dotfetch/build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
